@@ -1,0 +1,757 @@
+{
+    "hits": [
+        {
+            "Name": "Design Building",
+            "Quiet": "no",
+            "Medium Volume": "yes",
+            "Solo Study": "yes",
+            "Group Study": "no",
+            "Student Computer Access": "no",
+            "Outlets": "yes",
+            "Charging": "no",
+            "Whiteboard": "no",
+            "Printer": "no",
+            "Distance": "0.2",
+            "objectID": "7397501",
+            "_highlightResult": {
+                "Name": {
+                    "value": "Design Building",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "Distance": {
+                    "value": "0.2",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            },
+            "_rankingInfo": {
+                "nbTypos": 0,
+                "firstMatchedWord": 0,
+                "proximityDistance": 0,
+                "userScore": 19,
+                "geoDistance": 0,
+                "geoPrecision": 0,
+                "nbExactWords": 0,
+                "words": 0,
+                "filters": 0
+            }
+        },
+        {
+            "Name": "9th Floor - Library",
+            "Quiet": "yes",
+            "Medium Volume": "yes",
+            "Solo Study": "yes",
+            "Group Study": "yes",
+            "Student Computer Access": "no",
+            "Outlets": "yes",
+            "Charging": "no",
+            "Whiteboard": "no",
+            "Printer": "yes",
+            "Distance": "0.2",
+            "objectID": "7397491",
+            "_highlightResult": {
+                "Name": {
+                    "value": "9th Floor - Library",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "Distance": {
+                    "value": "0.2",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            },
+            "_rankingInfo": {
+                "nbTypos": 0,
+                "firstMatchedWord": 0,
+                "proximityDistance": 0,
+                "userScore": 18,
+                "geoDistance": 0,
+                "geoPrecision": 0,
+                "nbExactWords": 0,
+                "words": 0,
+                "filters": 0
+            }
+        },
+        {
+            "Name": "21 Floor - Library",
+            "Quiet": "yes",
+            "Medium Volume": "no",
+            "Solo Study": "yes",
+            "Group Study": "no",
+            "Student Computer Access": "no",
+            "Outlets": "yes",
+            "Charging": "no",
+            "Whiteboard": "no",
+            "Printer": "no",
+            "Distance": "0.2",
+            "objectID": "7397481",
+            "_highlightResult": {
+                "Name": {
+                    "value": "21 Floor - Library",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "Distance": {
+                    "value": "0.2",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            },
+            "_rankingInfo": {
+                "nbTypos": 0,
+                "firstMatchedWord": 0,
+                "proximityDistance": 0,
+                "userScore": 17,
+                "geoDistance": 0,
+                "geoPrecision": 0,
+                "nbExactWords": 0,
+                "words": 0,
+                "filters": 0
+            }
+        },
+        {
+            "Name": "Peets Cafe - ILC",
+            "Quiet": "yes",
+            "Medium Volume": "yes",
+            "Solo Study": "yes",
+            "Group Study": "no",
+            "Student Computer Access": "no",
+            "Outlets": "yes",
+            "Charging": "yes",
+            "Whiteboard": "no",
+            "Printer": "no",
+            "Distance": "0",
+            "objectID": "7397471",
+            "_highlightResult": {
+                "Name": {
+                    "value": "Peets Cafe - ILC",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "Distance": {
+                    "value": "0",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            },
+            "_rankingInfo": {
+                "nbTypos": 0,
+                "firstMatchedWord": 0,
+                "proximityDistance": 0,
+                "userScore": 16,
+                "geoDistance": 0,
+                "geoPrecision": 0,
+                "nbExactWords": 0,
+                "words": 0,
+                "filters": 0
+            }
+        },
+        {
+            "Name": "4th Floor (Journalism) - ILC",
+            "Quiet": "no",
+            "Medium Volume": "yes",
+            "Solo Study": "yes",
+            "Group Study": "no",
+            "Student Computer Access": "yes",
+            "Outlets": "yes",
+            "Charging": "yes",
+            "Whiteboard": "no",
+            "Printer": "yes",
+            "Distance": "0",
+            "objectID": "7397461",
+            "_highlightResult": {
+                "Name": {
+                    "value": "4th Floor (Journalism) - ILC",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "Distance": {
+                    "value": "0",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            },
+            "_rankingInfo": {
+                "nbTypos": 0,
+                "firstMatchedWord": 0,
+                "proximityDistance": 0,
+                "userScore": 15,
+                "geoDistance": 0,
+                "geoPrecision": 0,
+                "nbExactWords": 0,
+                "words": 0,
+                "filters": 0
+            }
+        },
+        {
+            "Name": "5th Floor - Library",
+            "Quiet": "yes",
+            "Medium Volume": "no",
+            "Solo Study": "yes",
+            "Group Study": "no",
+            "Student Computer Access": "no",
+            "Outlets": "yes",
+            "Charging": "yes",
+            "Whiteboard": "no",
+            "Printer": "no",
+            "Distance": "0.2",
+            "objectID": "7397451",
+            "_highlightResult": {
+                "Name": {
+                    "value": "5th Floor - Library",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "Distance": {
+                    "value": "0.2",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            },
+            "_rankingInfo": {
+                "nbTypos": 0,
+                "firstMatchedWord": 0,
+                "proximityDistance": 0,
+                "userScore": 14,
+                "geoDistance": 0,
+                "geoPrecision": 0,
+                "nbExactWords": 0,
+                "words": 0,
+                "filters": 0
+            }
+        },
+        {
+            "Name": "3rd Floor - Library",
+            "Quiet": "no",
+            "Medium Volume": "yes",
+            "Solo Study": "no",
+            "Group Study": "yes",
+            "Student Computer Access": "no",
+            "Outlets": "yes",
+            "Charging": "yes",
+            "Whiteboard": "no",
+            "Printer": "no",
+            "Distance": "0.2",
+            "objectID": "7397441",
+            "_highlightResult": {
+                "Name": {
+                    "value": "3rd Floor - Library",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "Distance": {
+                    "value": "0.2",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            },
+            "_rankingInfo": {
+                "nbTypos": 0,
+                "firstMatchedWord": 0,
+                "proximityDistance": 0,
+                "userScore": 13,
+                "geoDistance": 0,
+                "geoPrecision": 0,
+                "nbExactWords": 0,
+                "words": 0,
+                "filters": 0
+            }
+        },
+        {
+            "Name": "Holdsworth Hall",
+            "Quiet": "yes",
+            "Medium Volume": "no",
+            "Solo Study": "yes",
+            "Group Study": "yes",
+            "Student Computer Access": "no",
+            "Outlets": "yes",
+            "Charging": "no",
+            "Whiteboard": "yes",
+            "Printer": "no",
+            "Distance": "0.4",
+            "objectID": "7397431",
+            "_highlightResult": {
+                "Name": {
+                    "value": "Holdsworth Hall",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "Distance": {
+                    "value": "0.4",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            },
+            "_rankingInfo": {
+                "nbTypos": 0,
+                "firstMatchedWord": 0,
+                "proximityDistance": 0,
+                "userScore": 12,
+                "geoDistance": 0,
+                "geoPrecision": 0,
+                "nbExactWords": 0,
+                "words": 0,
+                "filters": 0
+            }
+        },
+        {
+            "Name": "The Hatch - Student Union",
+            "Quiet": "no",
+            "Medium Volume": "yes",
+            "Solo Study": "yes",
+            "Group Study": "yes",
+            "Student Computer Access": "no",
+            "Outlets": "yes",
+            "Charging": "yes",
+            "Whiteboard": "no",
+            "Printer": "no",
+            "Distance": "0.2",
+            "objectID": "7397421",
+            "_highlightResult": {
+                "Name": {
+                    "value": "The Hatch - Student Union",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "Distance": {
+                    "value": "0.2",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            },
+            "_rankingInfo": {
+                "nbTypos": 0,
+                "firstMatchedWord": 0,
+                "proximityDistance": 0,
+                "userScore": 11,
+                "geoDistance": 0,
+                "geoPrecision": 0,
+                "nbExactWords": 0,
+                "words": 0,
+                "filters": 0
+            }
+        },
+        {
+            "Name": "Greenhouse",
+            "Quiet": "yes",
+            "Medium Volume": "no",
+            "Solo Study": "yes",
+            "Group Study": "yes",
+            "Student Computer Access": "no",
+            "Outlets": "no",
+            "Charging": "no",
+            "Whiteboard": "no",
+            "Printer": "no",
+            "Distance": "0.4",
+            "objectID": "7397411",
+            "_highlightResult": {
+                "Name": {
+                    "value": "Greenhouse",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "Distance": {
+                    "value": "0.4",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            },
+            "_rankingInfo": {
+                "nbTypos": 0,
+                "firstMatchedWord": 0,
+                "proximityDistance": 0,
+                "userScore": 10,
+                "geoDistance": 0,
+                "geoPrecision": 0,
+                "nbExactWords": 0,
+                "words": 0,
+                "filters": 0
+            }
+        },
+        {
+            "Name": "18th Floor - Library",
+            "Quiet": "yes",
+            "Medium Volume": "no",
+            "Solo Study": "yes",
+            "Group Study": "no",
+            "Student Computer Access": "no",
+            "Outlets": "yes",
+            "Charging": "no",
+            "Whiteboard": "no",
+            "Printer": "no",
+            "Distance": "0.2",
+            "objectID": "7397401",
+            "_highlightResult": {
+                "Name": {
+                    "value": "18th Floor - Library",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "Distance": {
+                    "value": "0.2",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            },
+            "_rankingInfo": {
+                "nbTypos": 0,
+                "firstMatchedWord": 0,
+                "proximityDistance": 0,
+                "userScore": 9,
+                "geoDistance": 0,
+                "geoPrecision": 0,
+                "nbExactWords": 0,
+                "words": 0,
+                "filters": 0
+            }
+        },
+        {
+            "Name": "Science and Engineering Library",
+            "Quiet": "no",
+            "Medium Volume": "yes",
+            "Solo Study": "yes",
+            "Group Study": "yes",
+            "Student Computer Access": "yes",
+            "Outlets": "yes",
+            "Charging": "yes",
+            "Whiteboard": "yes",
+            "Printer": "yes",
+            "Distance": "0.3",
+            "objectID": "7397391",
+            "_highlightResult": {
+                "Name": {
+                    "value": "Science and Engineering Library",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "Distance": {
+                    "value": "0.3",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            },
+            "_rankingInfo": {
+                "nbTypos": 0,
+                "firstMatchedWord": 0,
+                "proximityDistance": 0,
+                "userScore": 8,
+                "geoDistance": 0,
+                "geoPrecision": 0,
+                "nbExactWords": 0,
+                "words": 0,
+                "filters": 0
+            }
+        },
+        {
+            "Name": "South College",
+            "Quiet": "yes",
+            "Medium Volume": "yes",
+            "Solo Study": "yes",
+            "Group Study": "yes",
+            "Student Computer Access": "no",
+            "Outlets": "yes",
+            "Charging": "yes",
+            "Whiteboard": "yes",
+            "Printer": "no",
+            "Distance": "0.3",
+            "objectID": "7397381",
+            "_highlightResult": {
+                "Name": {
+                    "value": "South College",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "Distance": {
+                    "value": "0.3",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            },
+            "_rankingInfo": {
+                "nbTypos": 0,
+                "firstMatchedWord": 0,
+                "proximityDistance": 0,
+                "userScore": 7,
+                "geoDistance": 0,
+                "geoPrecision": 0,
+                "nbExactWords": 0,
+                "words": 0,
+                "filters": 0
+            }
+        },
+        {
+            "Name": "Campus Pond",
+            "Quiet": "no",
+            "Medium Volume": "yes",
+            "Solo Study": "yes",
+            "Group Study": "yes",
+            "Student Computer Access": "no",
+            "Outlets": "no",
+            "Charging": "no",
+            "Whiteboard": "no",
+            "Printer": "no",
+            "Distance": "0.1",
+            "objectID": "7397371",
+            "_highlightResult": {
+                "Name": {
+                    "value": "Campus Pond",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "Distance": {
+                    "value": "0.1",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            },
+            "_rankingInfo": {
+                "nbTypos": 0,
+                "firstMatchedWord": 0,
+                "proximityDistance": 0,
+                "userScore": 6,
+                "geoDistance": 0,
+                "geoPrecision": 0,
+                "nbExactWords": 0,
+                "words": 0,
+                "filters": 0
+            }
+        },
+        {
+            "Name": "Learning Commons - Library",
+            "Quiet": "yes",
+            "Medium Volume": "yes",
+            "Solo Study": "yes",
+            "Group Study": "yes",
+            "Student Computer Access": "yes",
+            "Outlets": "yes",
+            "Charging": "yes",
+            "Whiteboard": "yes",
+            "Printer": "yes",
+            "Distance": "0.2",
+            "objectID": "7397361",
+            "_highlightResult": {
+                "Name": {
+                    "value": "Learning Commons - Library",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "Distance": {
+                    "value": "0.2",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            },
+            "_rankingInfo": {
+                "nbTypos": 0,
+                "firstMatchedWord": 0,
+                "proximityDistance": 0,
+                "userScore": 5,
+                "geoDistance": 0,
+                "geoPrecision": 0,
+                "nbExactWords": 0,
+                "words": 0,
+                "filters": 0
+            }
+        },
+        {
+            "Name": "7th Floor - Library",
+            "Quiet": "no",
+            "Medium Volume": "yes",
+            "Solo Study": "yes",
+            "Group Study": "yes",
+            "Student Computer Access": "no",
+            "Outlets": "yes",
+            "Charging": "no",
+            "Whiteboard": "no",
+            "Printer": "no",
+            "Distance": "0.2",
+            "objectID": "7397351",
+            "_highlightResult": {
+                "Name": {
+                    "value": "7th Floor - Library",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "Distance": {
+                    "value": "0.2",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            },
+            "_rankingInfo": {
+                "nbTypos": 0,
+                "firstMatchedWord": 0,
+                "proximityDistance": 0,
+                "userScore": 4,
+                "geoDistance": 0,
+                "geoPrecision": 0,
+                "nbExactWords": 0,
+                "words": 0,
+                "filters": 0
+            }
+        },
+        {
+            "Name": "23rd Floor - Library",
+            "Quiet": "yes",
+            "Medium Volume": "no",
+            "Solo Study": "yes",
+            "Group Study": "no",
+            "Student Computer Access": "no",
+            "Outlets": "yes",
+            "Charging": "yes",
+            "Whiteboard": "no",
+            "Printer": "no",
+            "Distance": "0.2",
+            "objectID": "7397341",
+            "_highlightResult": {
+                "Name": {
+                    "value": "23rd Floor - Library",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "Distance": {
+                    "value": "0.2",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            },
+            "_rankingInfo": {
+                "nbTypos": 0,
+                "firstMatchedWord": 0,
+                "proximityDistance": 0,
+                "userScore": 3,
+                "geoDistance": 0,
+                "geoPrecision": 0,
+                "nbExactWords": 0,
+                "words": 0,
+                "filters": 0
+            }
+        },
+        {
+            "Name": "Integrated Science Building",
+            "Quiet": "yes",
+            "Medium Volume": "eh",
+            "Solo Study": "yes",
+            "Group Study": "yes",
+            "Student Computer Access": "no",
+            "Outlets": "yes",
+            "Charging": "no",
+            "Whiteboard": "no",
+            "Printer": "no",
+            "Distance": "0.1",
+            "objectID": "7397331",
+            "_highlightResult": {
+                "Name": {
+                    "value": "Integrated Science Building",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "Distance": {
+                    "value": "0.1",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            },
+            "_rankingInfo": {
+                "nbTypos": 0,
+                "firstMatchedWord": 0,
+                "proximityDistance": 0,
+                "userScore": 2,
+                "geoDistance": 0,
+                "geoPrecision": 0,
+                "nbExactWords": 0,
+                "words": 0,
+                "filters": 0
+            }
+        },
+        {
+            "Name": "Roots Cafe",
+            "Quiet": "no",
+            "Medium Volume": "yes",
+            "Solo Study": "yes",
+            "Group Study": "yes",
+            "Student Computer Access": "no",
+            "Outlets": "yes",
+            "Charging": "no",
+            "Whiteboard": "no",
+            "Printer": "no",
+            "Distance": "0",
+            "objectID": "7397321",
+            "_highlightResult": {
+                "Name": {
+                    "value": "Roots Cafe",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "Distance": {
+                    "value": "0",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            },
+            "_rankingInfo": {
+                "nbTypos": 0,
+                "firstMatchedWord": 0,
+                "proximityDistance": 0,
+                "userScore": 1,
+                "geoDistance": 0,
+                "geoPrecision": 0,
+                "nbExactWords": 0,
+                "words": 0,
+                "filters": 0
+            }
+        },
+        {
+            "Name": "14th Floor - Library",
+            "Quiet": "yes",
+            "Medium Volume": "no",
+            "Solo Study": "yes",
+            "Group Study": "no",
+            "Student Computer Access": "no",
+            "Outlets": "yes",
+            "Charging": "no",
+            "Whiteboard": "no",
+            "Printer": "no",
+            "Distance": "0.2",
+            "objectID": "7397311",
+            "_highlightResult": {
+                "Name": {
+                    "value": "14th Floor - Library",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "Distance": {
+                    "value": "0.2",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            },
+            "_rankingInfo": {
+                "nbTypos": 0,
+                "firstMatchedWord": 0,
+                "proximityDistance": 0,
+                "userScore": 0,
+                "geoDistance": 0,
+                "geoPrecision": 0,
+                "nbExactWords": 0,
+                "words": 0,
+                "filters": 0
+            }
+        }
+    ],
+    "nbHits": 20,
+    "page": 0,
+    "nbPages": 2,
+    "hitsPerPage": 10,
+    "processingTimeMS": 1,
+    "exhaustiveNbHits": true,
+    "query": "",
+    "params": "query=&hitsPerPage=10&page=0&attributesToRetrieve=*&highlightPreTag=%3Cais-highlight-0000000000%3E&highlightPostTag=%3C%2Fais-highlight-0000000000%3E&getRankingInfo=1&facets=%5B%5D&tagFilters=",
+    "index": "studyspot",
+    "serverUsed": "c10-use-2.algolia.net",
+    "parsedQuery": "",
+    "timeoutCounts": false,
+    "timeoutHits": false
+}
