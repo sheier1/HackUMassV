@@ -49,6 +49,7 @@ input {
 	height: 30px;
 	font-size:28px;
 	overflow: auto;
+	color: #3D3D3D;
 }
 
 a
@@ -105,6 +106,11 @@ a:hover
 {
 	margin: 0 auto;
 	width: auto;
+}
+
+.filter
+{
+	display: inline-block;
 }
 
 /*********************************************************************************/
@@ -444,19 +450,20 @@ ul.contact li a.icon-rss:before
 	#menu-wrapper
 	{
 		background: #FFCF00;
-		height: 100px;
+		height: 140px;
 		overflow: auto;
 		text-align: center;
 	}
 
 	#menu
 	{
+		padding-top: 1.2em;
 		display: inline-block;
 		background: #FFCF00;
 		margin: 0px auto;
 		font-size: 20px;
 		text-align: center;
-		align-items: center;
+		/*align-items: center;*/
 		color: #FFF;
 		
 	}
@@ -672,7 +679,7 @@ ul.contact li a.icon-rss:before
 #featured-wrapper
 {
 	overflow: hidden;
-	padding: 5em 3em;
+	padding: 1em 3em;
 	background: #3D3D3D;
 	text-align: start;
 	color: #FFF;
@@ -699,8 +706,8 @@ ul.contact li a.icon-rss:before
 }
 
 #featured-wrapper li a:hover {
-  font-size: 50px;
   background: #FFCF00;
+  color: #3D3D3D;
 }
 
 #featured
@@ -756,6 +763,35 @@ ul.contact li a.icon-rss:before
 	font-size: 5em;
 	text-align: center;
 	color: #FFF;
+}
+
+
+#grow {
+  /*padding: 5px 5px 5px 5px;
+  border-radius: 10px;
+  height: 49px;
+  width: 22%;
+  margin: 5px 1% 5px 1%;
+  float: left;
+  position: relative;
+  transition: height 0.5s;
+  -webkit-transition: height 0.5s;
+  text-align: center;*/
+  overflow: hidden;
+  border-radius: 10px;
+  -webkit-transition: height 0.5s;
+  transition: height 0.5s;
+  position: relative;
+  text-decoration: none;
+  color: #FFF;
+  display: block;
+  width: 0px auto;
+  height: 90px;
+}
+#grow:hover {
+  height: 190px;
+  background: #FFCF00;
+  color: #3D3D3D;
 }
 
 .column1,  .column2,  .column3,  .column4
