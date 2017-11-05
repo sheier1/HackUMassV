@@ -29,6 +29,7 @@ Released   : 20131117
 		<div id="logo">
 			<div><a><img src="Logomakr_3PSEaj_196.png" width="150" height="150" class="img-responsive shake-me" style="padding-top: 5px"></a></div>
 			<h1><a href="#">Study Spots</a></h1>
+			<span>Start typing and instantly search for your study spot</span>
 			<!-- <span>Design by <a href="http://templated.co" rel="nofollow">TEMPLATED</a></span> -->
 		</div>
 	</div>
@@ -37,22 +38,39 @@ Released   : 20131117
 
 		<div id="menu">
 			<ul>
-				<li><input type="text" class="input"><br></li>
+				<li><input id="search-input" type="text" class="input"><br></li>
 				<!-- ADD SEARCH FUNCTIONALITY!!! -->
-				<li><div align="center"><a href="#" class="button">Search</a></div></li>
+				<!-- <li><div align="center"><a href="#" class="button">Search</a></div></li> -->
 			</ul>
 		</div>
 </div>
+
+
 <div id="wrapper">
 	<div id="featured-wrapper">
 
-	<div class="title"><h2>Your spots...</h2></div>
+	<!-- <div class="title"><h2>Your spots...</h2></div> -->
 
 	<div class="result">
-		<ul>
-			<!-- LIST FROM RESULTS!!! -->
+		<ul><!-- 
 			<li><span><a href="#">Result1</a></span></li>
-			<li><span><a href="#">Result2</a></span></li>
+			<li><span><a href="#">Result2</a></span></li> -->
+			<!--  -->
+			<main>
+			    <div id="hits"></div>
+			    <div id="pagination"></div>
+			</main>
+
+			  <script type="text/html" id="hit-template">
+			    <div class="hit">
+			      <li><span><a href="#"><p class="hit-name">{{{_highlightResult.Name.value}}}</p></a></span></li>
+			    </div>
+			  </script>
+
+			  <script src="https://cdn.jsdelivr.net/instantsearch.js/1/instantsearch.min.js"></script>
+			  <script src="app.js"></script>
+
+			<!--  -->
 		</ul>
 
 	</div>

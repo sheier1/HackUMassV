@@ -49,6 +49,7 @@ input {
 	height: 30px;
 	font-size:28px;
 	overflow: auto;
+	color: #3D3D3D;
 }
 
 a
@@ -444,19 +445,20 @@ ul.contact li a.icon-rss:before
 	#menu-wrapper
 	{
 		background: #FFCF00;
-		height: 100px;
+		height: 85px;
 		overflow: auto;
 		text-align: center;
 	}
 
 	#menu
 	{
+		padding-top: 1.2em;
 		display: inline-block;
 		background: #FFCF00;
 		margin: 0px auto;
 		font-size: 20px;
 		text-align: center;
-		align-items: center;
+		/*align-items: center;*/
 		color: #FFF;
 		
 	}
@@ -672,7 +674,7 @@ ul.contact li a.icon-rss:before
 #featured-wrapper
 {
 	overflow: hidden;
-	padding: 5em 3em;
+	padding: 1em 3em;
 	background: #3D3D3D;
 	text-align: start;
 	color: #FFF;
