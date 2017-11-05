@@ -43,6 +43,9 @@ Released   : 20131117
 				<!-- <li><div align="center"><a href="#" class="button">Search</a></div></li> -->
 			</ul>
 		</div>
+		<ul>
+				<li class="filter"><input type="checkbox" name="charging"><label>Charging</label></li>
+		</ul>
 </div>
 
 
@@ -52,25 +55,21 @@ Released   : 20131117
 	<!-- <div class="title"><h2>Your spots...</h2></div> -->
 
 	<div class="result">
-		<ul><!-- 
-			<li><span><a href="#">Result1</a></span></li>
-			<li><span><a href="#">Result2</a></span></li> -->
-			<!--  -->
+		<ul>
 			<main>
 			    <div id="hits"></div>
 			    <div id="pagination"></div>
 			</main>
 
 			  <script type="text/html" id="hit-template">
-			    <div class="hit">
-			      <li><span><a href="#"><p class="hit-name">{{{_highlightResult.Name.value}}}</p></a></span></li>
+			    <div id="grow" class="hit">
+			      <li><span><p class="hit-name">{{{_highlightResult.Name.value}}}</p></span></li>
+			      <small class="hit-name">Charging: {{{Charging.value}}}</small>
 			    </div>
 			  </script>
 
 			  <script src="https://cdn.jsdelivr.net/instantsearch.js/1/instantsearch.min.js"></script>
 			  <script src="app.js"></script>
-
-			<!--  -->
 		</ul>
 
 	</div>
